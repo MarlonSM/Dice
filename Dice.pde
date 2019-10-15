@@ -22,7 +22,6 @@ void draw()
 			sum+=die.roll;
 
 		}
-		System.out.println();
 	}
 	fill(255);
 	rect(240 , 680, 200, 50, 10);
